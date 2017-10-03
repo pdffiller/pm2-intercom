@@ -1,5 +1,5 @@
 {
-  "name": "pm2-intercom-p",
+  "name": "pm2-intercom",
   "version": "1.0.0",
   "description": "Basic system to broadcast message to all other processes",
   "main": "index.js",
@@ -7,7 +7,6 @@
     "test": "DEBUG='*' mocha test/*.mocha.js"
   },
   "dependencies": {
-    "pm2": "latest",
     "pmx": "latest",
     "async": "latest",
     "semver": "*"
