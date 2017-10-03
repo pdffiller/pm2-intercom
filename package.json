@@ -7,6 +7,7 @@
     "test": "DEBUG='*' mocha test/*.mocha.js"
   },
   "dependencies": {
+    "pm2": "latest",
     "pmx": "latest",
     "async": "latest",
     "semver": "*"
